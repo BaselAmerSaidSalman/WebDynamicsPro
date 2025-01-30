@@ -1,0 +1,235 @@
+.header{
+    height: 800px;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.company_pages{
+    line-height: 100%;
+    text-align: right;
+}
+
+
+
+.homepage_url, .aboutpage_url, .servicespage_url, .pricingpage_url, .contactpage_url{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
+
+header{
+    background-image: url("../Pictures/c837a6_2119733e838e4a2f8813ebde736f99d5~mv2.avif");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h_parag{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.h_button, .Why_website_application_button, .our_services_button, .trusted_companies_button, .why_we_button, .footer_button{
+    line-height: 10px;
+    text-align: center;
+    border-radius: 40px;
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.h_button{
+    color: black;
+    background-color: white;
+    line-height: 100px;
+    font-size: 24px;
+
+}
+
+.Why_website_application{
+    height: 600px;
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    padding: 90px 40px 60px;
+}
+
+.Why_website_application_parag{
+    text-align: left;
+    margin-left: 3%;
+    line-height: 50px;
+}
+
+.Why_website_application_button{
+    color: black;
+    background-color: white;
+    text-align: right;
+}
+
+.services{
+    background-color: white;
+    color: black;
+    padding: 40px 40px 0 40px;
+    font-size: 30px;
+    height: 900px;
+    text-align: center;
+}
+
+.programming_website{
+    line-height: 20px;
+}
+
+.programming_application{
+    margin-top: 70px;
+    line-height: 20px;
+}
+
+.Make_your_website_SEO_Keywords{
+    margin-top: 80px;
+    line-height: 30px;
+}
+
+.Modify_and_develop_your_site{
+    margin-top: 70px;
+    line-height: 20px;
+}
+
+
+.programming_website, .programming_application, .Make_your_website_SEO_Keywords, .Modify_and_develop_your_site{
+    text-align: left;
+}
+
+.our_services_button{
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+
+.trusted_companies{
+    background-color:black;
+    color: white;
+    height: 750px;
+    padding: 40px 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.picture_1, .picture_2, .picture_3{
+    width: calc(80% / 3);
+    margin-left: 5%;
+    height: 350px;
+    border-radius: 80px;
+    position: relative;
+    top: 70px;
+}
+
+.picture_1{
+    margin-left: 1%;
+}
+
+
+.trusted_companies_button{
+    background-color: white;
+    color: black;
+    line-height: 400px;
+}
+
+
+/* -------------------------------------------------------------------------------------------------------------------- */
+.why_we{
+    background-color:white;
+    color: black;
+    font-size: 40px;
+    height: 600px;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.why_we_pre{
+    text-align: left;
+    font-size: 21px;
+    line-height: 60px;
+    margin-left: 30px;
+}
+
+.why_we_button{
+    background-color: black;
+    color: white;
+    line-height: 70px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------- */
+
+footer{
+    background-color: black;
+    color: white;
+    height: 500px;
+    padding: 0 80px 300px;
+}
+
+.footer_pre{
+    font-size: 35px;
+    margin-left: 20px;
+    line-height: 70px;
+}
+
+.footer_image{
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 50px;
+}
+
+.footer_p_1{
+    position: relative;
+    left: 810px;
+    top: 200px;
+    font-size: 30px;
+}
+
+.footer_p_2{
+    font-size: 30px;
+    position: relative;
+    left: 120px;
+    bottom: 60px;
+}
+
+.footer_email{
+    font-size: 30px;
+    position: relative;
+    left: 800px;
+    top: 220px;
+    border-radius: 10px;
+}
+
+.footer_button{
+    background-color: white;
+    color: black;
+}
+
+.footer_submit{
+    background-color: white;
+    font-size: 25px;
+    border-radius: 30px;
+    position: relative;
+    top: 300px;
+    left: 560px;
+}
+
+
+
+
+

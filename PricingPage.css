@@ -1,0 +1,19 @@
+.pricing_page_body{
+    background-color: black;
+    color: white;
+    padding: 80px;
+    height: 1000px;
+}
+
+.pricing_page_body_h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.pricing_page_body_cross{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 25px;
+}

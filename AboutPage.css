@@ -1,0 +1,35 @@
+.about_page_body{
+    background-color: black;
+    color: white;
+    padding: 80px;
+    height: 900px;
+}
+
+.about_page_body_without{
+    text-align: center;
+}
+
+.about_page_body_cross{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.about_page_h1{
+    font-size: 50px;
+}
+
+.about_page_pre{
+    font-size: 21px;
+    text-align: left;
+    line-height: 50px;
+}
+
+.about_page_image{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+}

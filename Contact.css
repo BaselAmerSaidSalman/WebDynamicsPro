@@ -1,0 +1,68 @@
+.contact_page_body{
+    text-align: left;
+    background-color: black;
+    color: white;
+    height: 700px;
+    padding: 60px;
+    font-size: 20px;
+}
+
+.contact_page_body_cross{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.first_name{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.last_name{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    position: relative;
+    top: 70px;
+    right: 412px;
+}
+
+.email{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    position: relative;
+    top: 140px;
+    right: 825px;
+}
+
+.subject{
+    font-size: 20px;
+    position: relative;
+    top: 180px;
+}
+
+.submit{
+    line-height: 10px;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    position: relative;
+    top: 250px;
+    right: 550px;
+}
+
+.contact_page_image{
+    width: 400px;
+    height: 600px;
+    position: relative;
+    left: 850px;
+    bottom: 370px;
+}
